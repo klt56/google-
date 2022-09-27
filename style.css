@@ -1,0 +1,127 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: right;
+}  
+	
+.navbar {
+	padding: 0 0 4px 0;
+    color: #000000DE;
+    padding-right: 15px;
+
+}
+
+.navbar>a {color: #000000DE; text-decoration: none;
+
+}
+
+.text2>a {color: #000000DE; text-decoration: none;
+	margin-left: 12px;
+
+}
+
+#connexion>a {color:#ccc;
+	background-color: blue;
+	text-decoration: none; 
+	border-radius:   10%;
+	
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.barrederecherche {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.cher { 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.text1 { 
+	display: flex;
+	align-items: left;
+	justify-content: left;
+
+}
+
+.btn { 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+		
+}
+
+footer {
+
+	background:#ccc;
+	
+	position:absolute;
+	
+	bottom:0;
+	
+	width:100%;
+	
+	padding-top:100px;
+	
+	height:100px;
+	padding: 0 5px; 
+
+}
+
+.footer { 
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+			
+}
+
+
+.text2 { 
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		
+}
+
+ footer {
+
+	min-height: auto;
+
+}
+ 
+.mic {
+	width: 30px;
+	height : 30px;
+
+}
+  
+.icon {
+	
+	width: 20px;
+	height : 20px;
+    float: left;
+}
+  
+.groupe {
+    
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+
+
+
